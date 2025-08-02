@@ -94,7 +94,7 @@ streamlit run app.py
 
 **Vaishnavie Suresh**  
 Operations & Product Manager | Human-Aware Systems Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavie-suresh) | 🌐 [Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavie-suresh) | 🌐 [Portfolio](https://vaishnaviesuresh.theradarlist.com/)
 
 ---
 
