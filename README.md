@@ -46,6 +46,17 @@ You can test with this [sample dataset of 100 employees](./employee_task_load_tr
 - ✅ Gives managers immediate clarity into workload health
 - ✅ Easy to use — no login or integrations required
 - ✅ Includes feedback interaction for user insight
+- ✅ **NEW:** Supports real-time file upload processing for instant results 
+
+---
+
+## 📅 Project Updates & Changelog
+
+| Date       | Update Description |
+|------------|--------------------|
+| 2025-08-09 | AI-Powered Q&A Assistant added using Groq API for natural language insights on uploaded task data |
+| 2025-08-05 | Enabled file uploads (CSV & Excel) instead of only Google Sheets link |
+| 2025-08-03 | Initial overload detection prototype using Task Duration and Fatigue Score |
 
 ---
 
